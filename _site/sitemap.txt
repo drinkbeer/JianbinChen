@@ -1,12 +1,10 @@
 
 http://drinkbeer.github.io/To-Do
 http://drinkbeer.github.io/archive
-http://drinkbeer.github.io/atom.xml
 http://drinkbeer.github.io/bookmarks
 http://drinkbeer.github.io/categories
 http://drinkbeer.github.io/
 http://drinkbeer.github.io/pages
-http://drinkbeer.github.io/rss.xml
 http://drinkbeer.github.io/sitemap.txt
 http://drinkbeer.github.io/tags
 
